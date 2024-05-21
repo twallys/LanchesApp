@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faça seu Pedido 2</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <h1>Faça seu Pedido</h1>
+    <form id="pedidoForm">
+        <div>
+            <input type="text" id="clienteNome" placeholder="Nome do Cliente" required>
+        </div>
+
+        <br>
+
+        <div>
+            <h2>Escolha um Lanche</h2>
+            <select id="lancheSelect">
+                <option>Carregando lanches...</option>
+            </select>
+        </div>
+
+        <br>
+
+        <div>
+            <h2>Ingredientes</h2>
+            <div id="ingredientesContainer"></div>
+        </div>
+
+        <br>
+
+        <button id="enviarPedidoBtn" class="enviarPedidoBtn">Enviar Pedido</button>
+    </form>
+</div>
+
+<div class="container">
+    <h2>Pedidos</h2>
+    <button id="atualizarPedidosBtn" class="atualizarPedidosBtn">Atualizar Pedidos</button>
+    <br>
+    <table id="ordersTable">
+        <tr>
+            <th>ID</th>
+            <th>Cliente</th>
+            <th>Total</th>
+            <th>Itens</th>
+            <th>Ingredientes Lanche</th>
+            <th>Adicionais</th>
+            <th>Promoção</th>
+        </tr>
+    </table>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="scripts.js"></script>
+</body>
+</html>

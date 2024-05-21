@@ -1,0 +1,25 @@
+
+G
+LanchesFront/Dockerfile,3\e\3e3d9afeded0632681b093f51ffec85d8d0aeed9
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
+|
+LLanchesBack/src/main/java/br/com/dogape/lanches/commom/config/WebConfig.java,5\6\56a05d013b7620f9d32d608fefd6fbc9e594082d
+w
+GLanchesBack/src/main/java/br/com/dogape/lanches/LanchesApplication.java,d\c\dc0a505abb4f91f6157caf8535f70c5d9a654a0d
+G
+LanchesFront/index.html,0\5\056bec6356eba86f4251e2183be0607f9902b047
+G
+LanchesFront/scripts.js,5\c\5cca092aa88828095f8132f5b1a4a264c739235d
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+E
+LanchesBack/README.md,f\1\f1e4674d3a74c24ff43cf328d5785430909d8dd6
+€
+PLanchesBack/src/main/java/br/com/dogape/lanches/controller/LancheController.java,4\5\456865450ecb9730fd06d1e540fd2f8367e34007
+…
+ULanchesBack/src/main/java/br/com/dogape/lanches/controller/IngredienteController.java,2\9\29e5a156c395e34844161dbfed8209b6a387aec7
+€
+PLanchesBack/src/main/java/br/com/dogape/lanches/controller/PedidoController.java,1\0\10f26c421a917e619199e9dd57fda42eb8668412
+G
+LanchesFront/styles.css,e\4\e44d53f0df8bb5c365352f3e855fbd20cbf465c6
