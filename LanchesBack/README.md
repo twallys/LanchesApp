@@ -2,9 +2,6 @@
 
 ## Lanches App - Backend
 
-## Postman
-Caso você utilize o Insomnia, basta importar o `postman.json` no seu postman para acessar todas rotas disponíveis neste projeto.
-
 ## PARA RODAR O PROJETO - Executar o seguinte comando
 **`docker-compose up --build`**
 
